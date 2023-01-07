@@ -8,10 +8,16 @@
       "link":"https://play.google.com/store/apps/details?id=com.benchan.wallchanna4k"
     },
 	{
-      "id":1,
+      "id":2,
       "title":"Wallpaper Leo Messi 4K",
       "image":"https://hafshamahira.github.io/iconlauncher/wallleomessi.png",
       "link":"https://play.google.com/store/apps/details?id=com.benchan.wallleomessi"
+    },
+	{
+      "id":3,
+      "title":"Wallpaper 4K CR7 Ronaldo",
+      "image":"https://hafshamahira.github.io/iconlauncher/wall4kcr7.png",
+      "link":"https://play.google.com/store/apps/details?id=com.benchan.wall4kcr7"
     }
 ]
 }
