@@ -20,10 +20,16 @@
       "link":"https://play.google.com/store/apps/details?id=com.benchan.wall4kcr7"
     },
 	{
-      "id":3,
+      "id":4,
       "title":"Wallpaper 4K CR7 Ronaldo",
       "image":"https://hafshamahira.github.io/iconlauncher/wallmbappe4k.png",
       "link":"https://play.google.com/store/apps/details?id=com.benchan.wallmbappe4k"
+    },
+	{
+      "id":5,
+      "title":"Wallpaper Erl Haaland 4K",
+      "image":"https://hafshamahira.github.io/iconlauncher/wallhaaland.png",
+      "link":"https://play.google.com/store/apps/details?id=com.benchan.wallhaaland"
     }
 ]
 }
