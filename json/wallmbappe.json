@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3561618014104944/2489090052",
       "main_ads_intertitial":"ca-app-pub-3561618014104944/6264118889",
       "main_native_ads_Admob_or_applovin":"ca-app-pub-3561618014104944/3968978677",
