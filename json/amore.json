@@ -39,9 +39,15 @@
     },
 	{
       "id":7,
-      "title":"Wallpapper 4K V BTS",
-      "image":"https://hafshamahira.github.io/iconlauncher/wallbtsv4k.png",
-      "link":"https://play.google.com/store/apps/details?id=com.benchan.wallbtsv4k"
+      "title":"Wallpapers Worlds Anime",
+      "image":"https://hafshamahira.github.io/iconlauncher/wallworldsanime.png",
+      "link":"https://play.google.com/store/apps/details?id=com.benchan.wallworldsanime"
+    },
+	{
+      "id":8,
+      "title":"Wallpaper One Pirates Piece 4K",
+      "image":"https://hafshamahira.github.io/iconlauncher/onepirates.png",
+      "link":"https://play.google.com/store/apps/details?id=com.benchan.onepirates"
     }
 ]
 }
