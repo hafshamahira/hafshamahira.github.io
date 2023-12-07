@@ -1,19 +1,19 @@
 {
   "Ads": [
     {
-      "more_app"                  : "0",
+      "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "null",
-      "main_ads_intertitial"      : "null",
-      "main_ads_native"           : "null",
+      "main_ads_banner"           : "ca-app-pub-9742261688519964/6585400709",
+      "main_ads_intertitial"      : "ca-app-pub-9742261688519964/1500594988",
+      "main_ads_native"           : "ca-app-pub-9742261688519964/8692689291",
 
-      "open_ads"                  : "null",
+      "open_ads"                  : "ca-app-pub-9742261688519964/7284200869",
 
-      "backup_ads_banner"         : "null",
-      "backup_ads_intertitial"    : "null",
-      "backup_ads_native"         : "null",
+      "backup_ads_banner"         : "ca-app-pub-9742261688519964/6585400709",
+      "backup_ads_intertitial"    : "ca-app-pub-9742261688519964/1500594988",
+      "backup_ads_native"         : "ca-app-pub-9742261688519964/8692689291",
       
       "initialize_sdk"            : "null",
       "initialize_sdk_backup_ads" : "null",
