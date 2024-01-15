@@ -5,9 +5,9 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "ca-app-pub-9742261688519964/7789044428x",
-      "main_ads_intertitial"      : "ca-app-pub-9742261688519964/5058939306x",
-      "main_ads_native"           : "ca-app-pub-9742261688519964/9669156200x",
+      "main_ads_banner"           : "ca-app-pub-9742261688519964/7789044428",
+      "main_ads_intertitial"      : "ca-app-pub-9742261688519964/5058939306",
+      "main_ads_native"           : "ca-app-pub-9742261688519964/9669156200",
 
       "open_ads"                  : "ca-app-pub-9742261688519964/8674750680",
 
@@ -20,11 +20,11 @@
 
       "interval_intertitial"      : 5,
 
-      "high_paying_keyword_1"     : "life insurance",
-      "high_paying_keyword_2"     : "health insurance",
-      "high_paying_keyword_3"     : "education insurance",
-      "high_paying_keyword_4"     : "architect",
-      "high_paying_keyword_5"     : "car insurance",
+      "high_paying_keyword_1"     : "",
+      "high_paying_keyword_2"     : "",
+      "high_paying_keyword_3"     : "",
+      "high_paying_keyword_4"     : "",
+      "high_paying_keyword_5"     : "",
 
       "status_app": "0",
       "link_redirect": "null"
