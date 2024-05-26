@@ -5,17 +5,17 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "ca-app-pub-2412713205734937/3082648629",
-      "main_ads_intertitial"      : "ca-app-pub-2412713205734937/2428930558",
-      "main_ads_native"           : "ca-app-pub-2412713205734937/9919519710",
+      "main_ads_banner"           : "ca-app-pub-2214374349425406/8617630079x",
+      "main_ads_intertitial"      : "ca-app-pub-2214374349425406/9981261750",
+      "main_ads_native"           : "ca-app-pub-2214374349425406/4972477654x",
 
-      "open_ads"                  : "ca-app-pub-2412713205734937/1769566950x",
+      "open_ads"                  : "ca-app-pub-2214374349425406/7304548400",
 
       "backup_ads_banner"         : "null",
       "backup_ads_intertitial"    : "null",
       "backup_ads_native"         : "null",
       
-      "initialize_sdk"            : "IKLAN DARI NDAGEL",
+      "initialize_sdk"            : "null",
       "initialize_sdk_backup_ads" : "null",
 
       "interval_intertitial"      : 5,

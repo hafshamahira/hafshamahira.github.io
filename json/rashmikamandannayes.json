@@ -5,11 +5,11 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "ca-app-pub-2214374349425406/6197929413",
+      "main_ads_banner"           : "ca-app-pub-2214374349425406/6197929413x",
       "main_ads_intertitial"      : "ca-app-pub-2214374349425406/5415330789",
-      "main_ads_native"           : "ca-app-pub-2214374349425406/9841660958",
+      "main_ads_native"           : "ca-app-pub-2214374349425406/9841660958x",
 
-      "open_ads"                  : "ca-app-pub-2214374349425406/6869434137x",
+      "open_ads"                  : "ca-app-pub-2214374349425406/6869434137",
 
       "backup_ads_banner"         : "null",
       "backup_ads_intertitial"    : "null",
